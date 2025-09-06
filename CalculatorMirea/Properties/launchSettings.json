@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CalculatorMirea": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
